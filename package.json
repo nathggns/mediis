@@ -1,0 +1,10 @@
+{
+  "name": "mediis",
+  "version": "0.0.1",
+  "description": "TBA",
+  "main": "index.js",
+  "repository": "https://github.com/nathggns/mediis",
+  "author": "Nate Higgins",
+  "license": "MIT",
+  "private": false
+}
